@@ -1,0 +1,26 @@
+
+.heading{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+height: 80;
+}
+
+#teddy, #bbb{
+font-size: 18px;
+margin-top: 40px;
+}
+
+
+
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow:5px 5px 5px indigo;
+    border-radius: 20px;
+    margin-top: 60px;
+}
